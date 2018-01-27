@@ -1,0 +1,9 @@
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.exe.config
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.exe
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\NeuralNets.pdb
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.exe
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\obj\Debug\NeuralNets.pdb
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\MathNet.Numerics.dll
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Consultor\Documents\Visual Studio 2012\Projects\NeuralNets\NeuralNets\bin\Debug\MathNet.Numerics.xml
